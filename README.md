@@ -1,4 +1,3 @@
-# tiaxiom
 # Python App for Workspace Status
 
 This is a Python-based application that allows you to:
