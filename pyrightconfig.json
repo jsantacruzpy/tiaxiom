@@ -1,0 +1,15 @@
+{
+    "exclude": [
+      "**/node_modules",
+      "**/__pycache__",
+      "**/AppData",
+      "**/.vscode",
+      "**/Datos de programa",
+      "**/Music",
+      "**/Videos",
+      "**/Documents",
+      "**/Pictures",
+      "**/Downloads"
+    ]
+  }
+  
