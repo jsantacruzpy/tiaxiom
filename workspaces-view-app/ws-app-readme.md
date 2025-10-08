@@ -15,8 +15,8 @@ Additionally, this repository includes a Dockerfile for containerizing the appli
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/yourrepo.git
-    cd yourrepo
+    git clone https://github.com/jsantacruzpy/tiaxiom.git
+    cd workspace
     ```
 
 2. Build the Docker image:
